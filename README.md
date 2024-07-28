@@ -1,0 +1,1 @@
+It's a simple chat room to communicate with each other.If you want to chat with other who are in different computer and desktop add your device ip to the hosts and start the server to connect through differernt devices.
